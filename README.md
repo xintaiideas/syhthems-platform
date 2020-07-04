@@ -2,7 +2,7 @@
 
 syhthems 是一个开源的物联网平台项目，它可以实现物联网产品的管理，数据流的管理，设备的管理，设备数据的可视化查看等等这些基础的物联网平台功能，以及多用户和角色的权限管理，OAuth2 登录等功能。该项目目前用于本人学习 Spring Boot, Spring Security, Vue 以及 IoT，希望能和社区开发者共同学习和进步。
 
-**文档：**[http://syhthems.ehaut.cn/](http://syhthems.ehaut.cn/)
+
 
 
 ## 平台架构
