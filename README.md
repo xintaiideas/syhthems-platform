@@ -124,11 +124,7 @@ syhthems IoT Platform 采用分模块开发，首先分为前端和后端两个�
 
 1. 从 github 上克隆最新的代码
 
-   ```bash
-    git clone https://github.com/ehaut/syhthems-platform.git
-    # 在国内可以使用阿里云的代码托管服务来下载：
-    git clone https://code.aliyun.com/syhthems/syhthems-platform.git
-   ```
+
 
 2. 创建平台所使用的数据库
 
