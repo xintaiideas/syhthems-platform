@@ -1,0 +1,7 @@
+spring:
+  freemarker:
+    enabled: true
+  mvc:
+    static-path-pattern: /static/**
+  session:
+    store-type: redis
